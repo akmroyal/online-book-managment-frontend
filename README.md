@@ -103,6 +103,9 @@ Below are the key dependencies used in the project:
 - **ESLint**: Linter for code quality
 - **Tailwind CSS**: Utility-based styling
 
+## ScreenShots
+You can view snapshots of the project [Here](). Click the link to explore the project visuals.
+
 ## Deployment
 
 1. Build the project:
